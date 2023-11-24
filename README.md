@@ -2,6 +2,7 @@
 Introducción a C#
 
 El programa fue realizado en Visual Studio Code Community 2022, por ende el proyecto tiene una archivo .sln
+Es importante instalar los componentes de C# y .NET en visual, que usualmente se los encuentra al instalar el programa, ya que pide que instalemos todos los entornos necesarios.
 
 Los pasos para abrir y ejecutar el programa:
 1. abrir el archivo POO.sln en Visual Studio Code Community 2022.
@@ -10,3 +11,4 @@ Los pasos para abrir y ejecutar el programa:
 4. Al ejecutarse el programa primero debe ingresar los datos del empleado, tomando en cuenta que el salario debe tener un "." si se quiere añadir decimas (350.50)
 5. Después se ingresan los datos del gerente tomando en cuenta lo mismo en el salario.
 6. Depués se imprime los valores y es el fin de todo el programa.
+
